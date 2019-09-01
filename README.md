@@ -1,3 +1,3 @@
-# Indecision-app
+# Expensify App
 
-My first app while learning react
+My first app with react-router and redux while learning react
